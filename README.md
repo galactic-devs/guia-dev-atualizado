@@ -15,6 +15,8 @@ Lista de cursos disponíveis para o desenvolvedor.
 - [Egghead](https://egghead.io/)
 - [FreeCodeCamp](https://www.freecodecamp.org/)
 - [Coursera](https://www.coursera.org/)
+- [Softblue](https://www.softblue.com.br/)
+
 
 ## Livros
 
