@@ -21,6 +21,7 @@ Lista de cursos disponíveis para o desenvolvedor.
 ## Livros
 
 ## Canais
+- [Lucas Montano](https://www.youtube.com/c/LucasMontano)
 
 ## Referências no Twitter
 
