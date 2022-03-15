@@ -20,7 +20,11 @@ Lista de cursos disponíveis para o desenvolvedor.
 
 ## Livros
 
+- [Ebooks Free de varias linguagens de programação](https://books.goalkicker.com/)
+
 ## Canais
+
+- [Canal do Igor (Programador Br) conteúdo de programação e carreira](https://www.youtube.com/channel/UCrdgeUeCll2QKmqmihIgKBQ)
 
 ## Referências no Twitter
 
