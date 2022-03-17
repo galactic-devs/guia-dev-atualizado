@@ -23,6 +23,7 @@ Lista de cursos disponíveis para o desenvolvedor.
 - [Ebooks Free de varias linguagens de programação](https://books.goalkicker.com/)
 
 ## Canais
+- [Lucas Montano](https://www.youtube.com/c/LucasMontano)
 
 - [Canal do Igor (Programador Br) conteúdo de programação e carreira](https://www.youtube.com/channel/UCrdgeUeCll2QKmqmihIgKBQ)
 
