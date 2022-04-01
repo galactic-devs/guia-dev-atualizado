@@ -22,6 +22,7 @@ Lista de cursos disponíveis para o desenvolvedor.
 
 ## Canais
 - [Lucas Montano](https://www.youtube.com/c/LucasMontano)
+- [Freecodecamp](https://www.youtube.com/c/Freecodecamp)
 
 ## Referências no Twitter
 
