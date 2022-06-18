@@ -24,6 +24,7 @@ Lista de cursos disponíveis para o desenvolvedor.
 
 ## Canais
 - [Lucas Montano](https://www.youtube.com/c/LucasMontano)
+- [Freecodecamp](https://www.youtube.com/c/Freecodecamp)
 
 - [Canal do Igor (Programador Br) conteúdo de programação e carreira](https://www.youtube.com/channel/UCrdgeUeCll2QKmqmihIgKBQ)
 
