@@ -27,3 +27,9 @@ Lista de cursos disponíveis para o desenvolvedor.
 ## Referências no Twitter
 
 ## Podcasts
+[Café Debug](https://soundcloud.com/cafe-de-bug)
+[Dentro do Ringue](https://podcast.vindi.com.br)
+[Cabeça de Lab](http://www.cabecadelab.com.br/index.html)
+[PodProgramar](https://podprogramar.com.br)
+[Hipsters Ponto Tech](https://www.hipsters.tech)
+
